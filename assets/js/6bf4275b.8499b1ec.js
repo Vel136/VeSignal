@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[689],{4410:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/Vel136/VeSignal/blob/master","baseUrl":"/VeSignal/","classOrder":[{"section":"API","classes":["Signal"]}],"apiCategories":[]}')}}]);

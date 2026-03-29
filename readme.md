@@ -55,6 +55,7 @@ onDamage:Fire(player, 25)
 | Method | Description |
 |--------|-------------|
 | `Connect(fn, priority?)` | Sync listener |
+| `ConnectSync(fn, priority?)` | Alias for `Connect` |
 | `ConnectAsync(fn, priority?)` | Listener runs in a pooled thread |
 | `ConnectIf(predicate, fn, priority?)` | Sync listener, only called when predicate passes |
 | `ConnectIfAsync(predicate, fn, priority?)` | Async listener, only called when predicate passes |

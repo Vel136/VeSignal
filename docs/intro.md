@@ -12,7 +12,7 @@ VeSignal is a single-file Luau module. Install it, require it, and start connect
 
 Get VeSignal from the Roblox Creator Store:
 
-**[Get VeSignal on Creator Store](https://create.roblox.com/store/asset/)**
+**[Get VeSignal on Creator Store](https://create.roblox.com/store/asset/98802343952796/VeSignal)**
 
 Drop `VeSignal.lua` into `ReplicatedStorage` (or any shared module location) and require it:
 

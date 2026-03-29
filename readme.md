@@ -2,7 +2,7 @@
 
 Fast, type-safe signals for Roblox.
 
-**[Documentation](https://vel136.github.io/VeSignal/)** · **[Creator Store](https://create.roblox.com/store/asset/)**
+**[Documentation](https://vel136.github.io/VeSignal/)** · **[Creator Store](https://create.roblox.com/store/asset/98802343952796/VeSignal)**
 
 VeSignal is a high-performance Luau signal library with first-class support for the new Luau type solver. It features connection pooling, priority ordering, async-aware firing, and UDTF-derived type signatures so your IDE knows exactly what arguments `Fire` and `Wait` accept.
 
@@ -10,7 +10,7 @@ VeSignal is a high-performance Luau signal library with first-class support for 
 
 ## Install
 
-Get VeSignal from the **[Roblox Creator Store](https://create.roblox.com/store/asset/)**, drop `VeSignal.lua` into `ReplicatedStorage`, and require it:
+Get VeSignal from the **[Roblox Creator Store](https://create.roblox.com/store/asset/98802343952796/VeSignal)**, drop `VeSignal.lua` into `ReplicatedStorage`, and require it:
 
 ```lua
 local Signal = require(ReplicatedStorage.VeSignal)
